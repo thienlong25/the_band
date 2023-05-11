@@ -85,7 +85,7 @@ html {
 /* end header  */
 /* start slider */
 .slider {
-    background-image: url('/assets/img/ny.jpg');
+    background-image: url('../img/ny.jpg');
     padding-top: 50%;
     background-repeat: no-repeat;
     background-size: contain;
